@@ -1,0 +1,30 @@
+h1{color:rgb(47, 0, 255)}
+
+
+
+.header{
+   background-color:#808080;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+
+}
+
+.footer{
+    background-color:teal;
+    display: flex;
+    justify-content:flex-end ;
+}
+
+body{
+    background-color:slategrey;
+}
+
+.item{
+color: #800000;
+}
